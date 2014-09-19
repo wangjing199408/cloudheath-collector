@@ -1,0 +1,40 @@
+{
+  "name": "Cloudheath-Collector",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cloudheath/cloudheath-collector",
+  "authors": [
+    "extensivepro"
+  ],
+  "description": "Web Front For Collector of CloudHeath",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21",
+    "angular-cookies": "~1.2.21",
+    "angular-bootstrap": "~0.11.0",
+    "angular-ui-router": "^0.2.10",
+    "bootstrap": "~3.2.0",
+    "font-awesome": "~4.1.0",
+    "angular-resource": "~1.2.23",
+    "moment": "~2.8.2",
+    "angular-ui-utils": "~0.1.1",
+    "angular-morph": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ehesp/Responsive-Dashboard.git"
+  },
+  "keywords": [
+    "cloud",
+    "health",
+    "collector"
+  ]
+}
